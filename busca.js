@@ -32,7 +32,7 @@ function showAllPlaces(){
 function searchPlaces(){
     let places= '';
     document.querySelector(".card-content").innerHTML = places;
-   
+    
     database.forEach(function(place){
         
         for(tag in place.tags){

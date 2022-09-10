@@ -46,7 +46,7 @@ let database = [
         descricao: "Restaurante 3 Restaurante 3 Restaurante 3  Restaurante 3",
         img: "<img src='./imagens/restaurante1.jpg'>",
         tags:['restaurante', 'lanchonete'],
-        cidade: ['Belo Horizonte', 'belo horizonte', 'belo']
+        cidade: ['sao paulo', 'São Paulo', 'são', 'sao']
     },
     {
         nome: "Marcenaria, Carpintaria",
