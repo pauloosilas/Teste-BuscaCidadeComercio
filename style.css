@@ -10,8 +10,7 @@
 .content-search{
     width: 100%;
     height: 100px;
-    display: flex;
-   
+    display: flex;  
 }
 
 .search .input_search{
@@ -75,6 +74,7 @@
     margin: 0 auto;
     max-width: 1000px;
     outline: hiden;
+    
 }
 .container .content-search{
     display: flex;
